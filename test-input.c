@@ -9,7 +9,7 @@
  *	文档：
  */
 
-#include "pcf8591.h"
+#include "include/pcf8591.h"
 #include <signal.h>
 #include <stdio.h>
 
